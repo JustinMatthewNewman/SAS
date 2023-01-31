@@ -1,4 +1,0 @@
-/** No format error */
-
-
-options nofmterr; run;
