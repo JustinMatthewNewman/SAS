@@ -1,3 +1,3 @@
 # SAS
 
-<img src="covid.png" alt="Alt text" title="Covid In Germany">
+<img src="SAS/covid.png" alt="Alt text" title="Covid In Germany">
